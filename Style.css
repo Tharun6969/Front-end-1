@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(136, 248, 160);
+}
+
+
+.apj{
+   margin-left:  100px; 
+   padding-left: 15px;
+   padding-right: 15px;
+   text-align: center;
+   color:rgb(4, 4, 52)violet;
+}
+
+.ABOUT{
+    margin: auto;
+    border: 1px solid;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(54, 235, 138);
+    width: 800px;
+     line-height: 28px;
+     font-size: medium;
+
+}
+h3{
+    color: whitesmoke;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 350px;
+    
+}
+h1{
+    font-weight: bold;
+    font-family:
+}
+span{
+    font-weight: bold;
+}
